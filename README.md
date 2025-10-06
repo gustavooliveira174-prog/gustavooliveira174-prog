@@ -10,6 +10,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavooliveira174-prog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+ Code & Game Engines
+
+ C# (ícone)
+ <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.sv
+
+
+ UNITY (ícone)
+ <img src = "https://img.icons8.com/?size-100&id=IPzemd2v4Ubj&format=png&color=000000
+
+
 É um repositório criado em aula para testar e realizar commits.<br><br>
 Então é isso! :D
 Bora lá fazer commits /o/
